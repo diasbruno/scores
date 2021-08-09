@@ -1,6 +1,7 @@
 # Scores
 
-Some scores...I'm using Musescore for my notation and arrangements.
+Some scores and/or incomplete scores just for the sake of remembering this stuff...
+I'm using Musescore.
 
 In case there is something wrong leave a note, or fork this repository.
 
